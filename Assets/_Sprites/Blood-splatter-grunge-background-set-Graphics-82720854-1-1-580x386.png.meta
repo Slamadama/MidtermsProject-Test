@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: e10c924119ef06d469c5bf728dda5bce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2497278386638629482
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_0
+  - first:
+      213: 2976293643260800979
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_1
+  - first:
+      213: 2208043239533889156
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_2
+  - first:
+      213: -9061557974550247199
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_3
+  - first:
+      213: -2570351072893335560
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_4
+  - first:
+      213: 5732524310181770848
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_5
+  - first:
+      213: -9179122681739913045
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_6
+  - first:
+      213: -5414328270744339450
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_7
+  - first:
+      213: -5884213749855197618
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_8
+  - first:
+      213: 436960132508196322
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_9
+  - first:
+      213: -6033125044371416523
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_10
+  - first:
+      213: 524184130753391511
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_11
+  - first:
+      213: -3309719212768074196
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_12
+  - first:
+      213: -3856000570300025826
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_13
+  - first:
+      213: -3003011893262332979
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_14
+  - first:
+      213: 2595177878322483059
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_15
+  - first:
+      213: -7531020713421455198
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_16
+  - first:
+      213: -6077558291447030680
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_17
+  - first:
+      213: 5008685685013524046
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_18
+  - first:
+      213: 8549225133364301194
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_19
+  - first:
+      213: 6349690184924427649
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_20
+  - first:
+      213: 3819426569199222258
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_21
+  - first:
+      213: -5719324622953111434
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_22
+  - first:
+      213: 3499926350759517880
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_23
+  - first:
+      213: 8188334858587722786
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_24
+  - first:
+      213: -6883539716428009844
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_25
+  - first:
+      213: -3976802124072595476
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_26
+  - first:
+      213: -4046591994465657975
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_27
+  - first:
+      213: 5854104878589962937
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_28
+  - first:
+      213: 6593606604439209232
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_29
+  - first:
+      213: -1586818179528139219
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_30
+  - first:
+      213: -4174401523291281560
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_31
+  - first:
+      213: -5921774855219455496
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_32
+  - first:
+      213: -4612841548923049037
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_33
+  - first:
+      213: -1435133512424953366
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_34
+  - first:
+      213: 1592695368391468256
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_35
+  - first:
+      213: -3298704092872736973
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_36
+  - first:
+      213: 1874505868320513410
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_37
+  - first:
+      213: 2200208217669474425
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_38
+  - first:
+      213: -30496526662165742
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_39
+  - first:
+      213: 5482531742805051439
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_40
+  - first:
+      213: 616765279926929076
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_41
+  - first:
+      213: 1711139838177456542
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_42
+  - first:
+      213: -522449226937734906
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_43
+  - first:
+      213: 1422655608795131134
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_44
+  - first:
+      213: -8961801640958754081
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_45
+  - first:
+      213: 1985568964005965650
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_46
+  - first:
+      213: 1988658841249889482
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_47
+  - first:
+      213: -948994492642803889
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_48
+  - first:
+      213: -3500600953972451342
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_49
+  - first:
+      213: -1806716528362924326
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_50
+  - first:
+      213: -8698612480646634214
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_51
+  - first:
+      213: -347763230839716625
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_52
+  - first:
+      213: 2416024849438051905
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_53
+  - first:
+      213: 2179917430342936999
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_54
+  - first:
+      213: -923281991285682404
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_55
+  - first:
+      213: 7245743725727315105
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_56
+  - first:
+      213: 1864598533442242105
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_57
+  - first:
+      213: 3957984886098180812
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_58
+  - first:
+      213: 4058701186326357289
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_59
+  - first:
+      213: -3830511435557681070
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_60
+  - first:
+      213: 2647386159264905494
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_61
+  - first:
+      213: 7413253065700081278
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_62
+  - first:
+      213: -7662101602593394774
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_63
+  - first:
+      213: 7533798165421727020
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_64
+  - first:
+      213: -1222472242155288008
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_65
+  - first:
+      213: 409211793576428893
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_66
+  - first:
+      213: -5846736664724820743
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_67
+  - first:
+      213: -8392722847848129194
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_68
+  - first:
+      213: 7876739704617105889
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_69
+  - first:
+      213: -4392908741791454551
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_70
+  - first:
+      213: -4577648493044551784
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_71
+  - first:
+      213: 1057097123945406155
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_72
+  - first:
+      213: -1766901286730274930
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_73
+  - first:
+      213: 1762844351482726878
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_74
+  - first:
+      213: 9003375022608608699
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_75
+  - first:
+      213: 4697328114574390853
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_76
+  - first:
+      213: -2969750311752785541
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_77
+  - first:
+      213: 4228636908282568932
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_78
+  - first:
+      213: 944278515808369300
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_79
+  - first:
+      213: -2193287028573222214
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_80
+  - first:
+      213: 7754579802477391785
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_81
+  - first:
+      213: 2989999958510776608
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_82
+  - first:
+      213: 5813758620280034115
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_83
+  - first:
+      213: -7547675601636797987
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_84
+  - first:
+      213: -4884958347936715643
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_85
+  - first:
+      213: -7467189874406740306
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_86
+  - first:
+      213: 7107606836526637918
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_87
+  - first:
+      213: 5852699620522826603
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_88
+  - first:
+      213: -7655031482545833392
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_89
+  - first:
+      213: -4951953396268000856
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_90
+  - first:
+      213: -9202181361068910853
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_91
+  - first:
+      213: 3123612376707549099
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_92
+  - first:
+      213: -1869198298649119629
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_93
+  - first:
+      213: 5144961083607357573
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_94
+  - first:
+      213: 5605293716768271525
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_95
+  - first:
+      213: 1503421511499324498
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_96
+  - first:
+      213: -2538592928490458750
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_97
+  - first:
+      213: 4952788234304310045
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_98
+  - first:
+      213: 3296432331062186289
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_99
+  - first:
+      213: 28547583888906972
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_100
+  - first:
+      213: -3708779411390911030
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_101
+  - first:
+      213: -3836806625081871927
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_102
+  - first:
+      213: 2913964786660484700
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_103
+  - first:
+      213: -4257163642182909601
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_104
+  - first:
+      213: 5915594162908074341
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_105
+  - first:
+      213: 8015882571420162967
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_106
+  - first:
+      213: 1788020185031200826
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_107
+  - first:
+      213: -2498952954050124207
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_108
+  - first:
+      213: 6267679316437619143
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_109
+  - first:
+      213: 945634156763783998
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_110
+  - first:
+      213: -8236500000833088800
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_111
+  - first:
+      213: -5712576124914684370
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_112
+  - first:
+      213: 4762039287681165500
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_113
+  - first:
+      213: -765564630037801426
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_114
+  - first:
+      213: 8115522572614504194
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_115
+  - first:
+      213: -9054757669211468738
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_116
+  - first:
+      213: 4713785198427298659
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_117
+  - first:
+      213: 4572459858629868894
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_118
+  - first:
+      213: 7783533972064955510
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_119
+  - first:
+      213: 253604559743458742
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_120
+  - first:
+      213: -4756792776678686648
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_121
+  - first:
+      213: 4879764809905366010
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_122
+  - first:
+      213: -1697058331488114967
+    second: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 251
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a2bd4267d18a220800000000000000
+      internalID: 2497278386638629482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 251
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df20d9ac4bed4920800000000000000
+      internalID: 2976293643260800979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 251
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486ce1da0ab84ae10800000000000000
+      internalID: 2208043239533889156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 251
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e803574801ee3280800000000000000
+      internalID: -9061557974550247199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_4
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 251
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f706284157445cd0800000000000000
+      internalID: -2570351072893335560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 126
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066fca6ec740e8f40800000000000000
+      internalID: 5732524310181770848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 126
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba85925dd843d9080800000000000000
+      internalID: -9179122681739913045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 126
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cbde4cf117cd4b0800000000000000
+      internalID: -5414328270744339450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 126
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46696935c2175ea0800000000000000
+      internalID: -5884213749855197618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 126
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed9827ece4601600800000000000000
+      internalID: 436960132508196322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a9abcacb8064ca0800000000000000
+      internalID: -6033125044371416523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79be37e80b6464700800000000000000
+      internalID: 524184130753391511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_12
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c266ca069e38112d0800000000000000
+      internalID: -3309719212768074196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_13
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14309949ebbc7ac0800000000000000
+      internalID: -3856000570300025826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb43ddf7982356d0800000000000000
+      internalID: -3003011893262332979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6ffa9f216e7ac6749943f1dbc3aa01b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":112.0,"y":125.0},"gridSpriteOffset":{"x":19.0,"y":10.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_0: 2497278386638629482
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_1: 2976293643260800979
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_10: -6033125044371416523
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_11: 524184130753391511
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_12: -3309719212768074196
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_13: -3856000570300025826
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_14: -3003011893262332979
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_2: 2208043239533889156
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_3: -9061557974550247199
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_4: -2570351072893335560
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_5: 5732524310181770848
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_6: -9179122681739913045
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_7: -5414328270744339450
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_8: -5884213749855197618
+      Blood-splatter-grunge-background-set-Graphics-82720854-1-1-580x386_9: 436960132508196322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

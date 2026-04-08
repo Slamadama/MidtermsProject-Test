@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Wall
+  - Enemy
+  - Secondary Camera
+  - BG Tag
+  - BG
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Obstacle
+  - EnemyBullet
+  - PlayerBullet
+  - Enemy
+  - sortingOrder
+  - tilemap
+  - Dungeon
+  - Light
+  - Melee
+  - fx
+  - 3D Objects
+  - Ground Test Layer
+  - BG Test Layer
+  - EnemySummon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: TileMap
+    uniqueID: 558060583
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Trees
+    uniqueID: 3886408315
+    locked: 0
+  - name: Foreground
+    uniqueID: 2316322441
+    locked: 0
+  - name: EnemyPlace
+    uniqueID: 188174641
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 9342024d9c3387b4f995a0137333739b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1738467918474295819
+    second: FIRE ANT 1_0
+  - first:
+      213: -4386793943424820914
+    second: FIRE ANT 1_1
+  - first:
+      213: -3841790610961902569
+    second: FIRE ANT 1_2
+  - first:
+      213: -7119093092545569262
+    second: FIRE ANT 1_3
+  - first:
+      213: -4463814904873933957
+    second: FIRE ANT 1_4
+  - first:
+      213: -6610112699263071282
+    second: FIRE ANT 1_5
+  - first:
+      213: -6818613040696911108
+    second: FIRE ANT 1_6
+  - first:
+      213: -4339402978081756541
+    second: FIRE ANT 1_7
+  - first:
+      213: 4237081313424390670
+    second: FIRE ANT 1_8
+  - first:
+      213: 4860213660446131378
+    second: FIRE ANT 1_9
+  - first:
+      213: -8251774599878202780
+    second: FIRE ANT 1_10
+  - first:
+      213: 6549746040674914469
+    second: FIRE ANT 1_11
+  - first:
+      213: 3418010478720614530
+    second: FIRE ANT 1_12
+  - first:
+      213: 2731240730164157099
+    second: FIRE ANT 1_13
+  - first:
+      213: -611338231099570330
+    second: FIRE ANT 1_14
+  - first:
+      213: 8028524092797453262
+    second: FIRE ANT 1_15
+  - first:
+      213: 1370156290746213680
+    second: FIRE ANT 1_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FIRE ANT 1_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1447
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ab21e6c57402810800000000000000
+      internalID: 1738467918474295819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1284
+        width: 445
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e491453962afe13c0800000000000000
+      internalID: -4386793943424820914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 610
+        width: 1099
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7145f244bc73faac0800000000000000
+      internalID: -3841790610961902569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1374
+        width: 85
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e52e70d86e33d90800000000000000
+      internalID: -7119093092545569262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1408
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7325eb8ef75d02c0800000000000000
+      internalID: -4463814904873933957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_5
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1131
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb402b95892444a0800000000000000
+      internalID: -6610112699263071282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1053
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa1a68e09b6f51a0800000000000000
+      internalID: -6818613040696911108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1031
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a2a2a8bf757c3c0800000000000000
+      internalID: -4339402978081756541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 980
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a3b1b61032dca30800000000000000
+      internalID: 4237081313424390670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_9
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 601
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4846bd292f27340800000000000000
+      internalID: 4860213660446131378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_10
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 325
+        width: 180
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a2baf98becb7d80800000000000000
+      internalID: -8251774599878202780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_11
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 575
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0137b625f55ea50800000000000000
+      internalID: 6549746040674914469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_12
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 445
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28084b6cb663f6f20800000000000000
+      internalID: 3418010478720614530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_13
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 470
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa538d29f057e520800000000000000
+      internalID: 2731240730164157099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_14
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 372
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667c1b92e171487f0800000000000000
+      internalID: -611338231099570330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_15
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 354
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec38bdd102c0b6f60800000000000000
+      internalID: 8028524092797453262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIRE ANT 1_16
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 335
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035e1b413e5c30310800000000000000
+      internalID: 1370156290746213680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FIRE ANT 1_0: 1738467918474295819
+      FIRE ANT 1_1: -4386793943424820914
+      FIRE ANT 1_10: -8251774599878202780
+      FIRE ANT 1_11: 6549746040674914469
+      FIRE ANT 1_12: 3418010478720614530
+      FIRE ANT 1_13: 2731240730164157099
+      FIRE ANT 1_14: -611338231099570330
+      FIRE ANT 1_15: 8028524092797453262
+      FIRE ANT 1_16: 1370156290746213680
+      FIRE ANT 1_2: -3841790610961902569
+      FIRE ANT 1_3: -7119093092545569262
+      FIRE ANT 1_4: -4463814904873933957
+      FIRE ANT 1_5: -6610112699263071282
+      FIRE ANT 1_6: -6818613040696911108
+      FIRE ANT 1_7: -4339402978081756541
+      FIRE ANT 1_8: 4237081313424390670
+      FIRE ANT 1_9: 4860213660446131378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
