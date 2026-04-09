@@ -30,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 205929073527686561}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 48.78426, y: 0.32276, z: 0}
+  m_LocalPosition: {x: 8.78426, y: 0.32276, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a19297df12d34f644a264bdb0fb07425, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeItem
-  upgradeData: {fileID: 11400000, guid: d57284add5eb22b44987e8b35a105d80, type: 2}
+  upgradeData: {fileID: 11400000, guid: 10510e18bbdac5f4380db25002799313, type: 2}
 --- !u!114 &4291002973143921809
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -127,12 +127,12 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 207772181601378373, guid: e1b039c52ae8a01498963a95dc60de2f, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Sprite: {fileID: 6388389237426139460, guid: 9dc87e6a5f0dcd24a803e3c06bc7e623, type: 3}
+  m_Color: {r: 0.23773581, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 20.48, y: 20.48}
+  m_Size: {x: 12.95, y: 7.23}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -175,13 +175,13 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 20.48, y: 20.48}
-    newSize: {x: 20.48, y: 20.48}
+    oldSize: {x: 2.59, y: 1.4501692}
+    newSize: {x: 12.95, y: 7.23}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.5, y: 1.5}
+  m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!61 &2087342897106534432
 BoxCollider2D:
@@ -221,8 +221,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 20.48, y: 20.48}
-    newSize: {x: 20.48, y: 20.48}
+    oldSize: {x: 2.59, y: 1.4501692}
+    newSize: {x: 12.95, y: 7.23}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
